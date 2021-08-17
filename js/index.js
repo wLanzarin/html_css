@@ -1,0 +1,1 @@
+alert('Login realizado com sucesso sem senha mesmo! Bem vindo!')
