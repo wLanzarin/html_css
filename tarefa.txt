@@ -1,0 +1,23 @@
+ - Cria uma branch chamada classe-01
+ - Cria um as seguintes pastas e arquivos:
+    - index.html
+    - css/index.css
+    - js/index.js
+    - assests/
+- Cria um hmlt:5 no index.html
+- Adiciona um titulo H1 para a lista
+- Dentro do body cria uma lista numerada pra compras q tu precisa fazer pro dia
+- Muda a cor do titulo pra rosa
+- Muda a cor da lista pra azul
+- Qndo a pagina abrir, mostra mensagem "Seja bem vindo" num alerta.
+
+
+Dicas: 
+Modificacoes de cores tem q ser feita no arquivo css
+https://www.hostinger.com.br/tutoriais/como-linkar-css-no-html
+
+
+Dica do Javascript - Pra mostrar alerta use alert('Qualquer mensagem')
+
+Pesquisa como linkar JS no HTML.
+
